@@ -1,9 +1,14 @@
 ###Android笔记
 >Android高效开发：
 - [依赖注入框架](https://github.com/ZM-Fight/ReadingNotes/blob/master/Android%E7%AC%94%E8%AE%B0/Android%E9%AB%98%E6%95%88%E5%BC%80%E5%8F%91/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6.md)
+
+
 ------------------------------
+
+
 ###读书笔记
 >技术类：
+
 - [《java编程思想》](https://github.com/ZM-Fight/ReadingNotes/tree/master/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D)
 
 >文学类：
